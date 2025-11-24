@@ -74,5 +74,9 @@ public class Main {
         Frank frank = new Frank();
         System.out.println(CYAN_BOLD+frank.tweet());
 
+        SoExtra soExtra = new SoExtra();
+        System.out.println(CYAN_BOLD + soExtra.tweet());
+
+
     }
 }
