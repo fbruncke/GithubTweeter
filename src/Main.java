@@ -74,5 +74,8 @@ public class Main {
         Frank frank = new Frank();
         System.out.println(CYAN_BOLD+frank.tweet());
 
+        GroupGenX groupGenX= new GroupGenX();
+        System.out.println(groupGenX.tweet());
+
     }
 }
